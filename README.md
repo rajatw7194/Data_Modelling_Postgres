@@ -1,5 +1,3 @@
-# Udacity Data Engineer Nanodegree - Data Modeling with Postgres
-
 ## Create a Postgres database with tables designed to optimize queries on song play analysis
 
 ### Introduction
@@ -42,4 +40,3 @@ Run test.ipynb to confirm your records were successfully inserted into each tabl
 
 NOTE: You will not be able to run [`test.ipynb`](test.ipynb), [`etl.ipynb`](etl.ipynb), or [`etl.py`](etl.py) until you have run create_tables.py at least once to create the sparkifydb database, which these other files connect to.
 
-Visit [my blog post](https://towardsdatascience.com/data-modeling-for-a-music-streaming-app-db46a4595e4e) to follow along
